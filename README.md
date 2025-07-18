@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Scream Monitor: AI for Crime Prevention](https://github.com/khushigupta124/Scream-Monitor-AI-for-Crime-Prevention)
 
-- 🌱 I’m currently learning: **Exploring WordPress development fundamentals while focusing on responsive design and clean code practices to build accessible,user-friendly web experiences**
+- 🌱 I’m currently exploring WordPress development fundamentals while focusing on responsive design and clean code practices to build accessible,user-friendly web experiences
 
 - 👯 I’m looking to collaborate on **real-world projects that improve my development skills and contribute to impactful solutions.**
 
