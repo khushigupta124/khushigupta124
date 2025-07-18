@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
-<h3 align="center">Final-year B.Tech CSE-AIML student and passionate web developer,crafting clean,impactful,and user-friendly web experience</h3>
+<h1 align="center">Hi, I'm Khushi Gupta</h1>
+<h3 align="center">Final-year B.Tech CSE-AIML student and passionate web developer, crafting clean, impactful, and user-friendly web experience</h3>
 
 - 🔭 I’m currently working on [Scream Monitor: AI for Crime Prevention](https://github.com/khushigupta124/Scream-Monitor-AI-for-Crime-Prevention)
 
