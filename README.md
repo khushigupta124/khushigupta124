@@ -10,7 +10,7 @@ I once trained an AI to detect screams… and now my laptop gets worried when I 
 - 👯 I’m looking to collaborate on **real-world projects that improve my development skills and contribute to impactful solutions.**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/khushigupta124)
 - 📫 How to reach me **khushigupta10204@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AemF5fY1HujqF_DueiuQgYeTAtpNhZ8s/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/175IPPxC09BX3g4Qvq0VLs_BdlQeXmWis/view?usp=sharing)
 
 ---
 
