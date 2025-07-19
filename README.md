@@ -2,8 +2,6 @@
 
 <h3 align="center">Final Year CSE-AIML Student | Full Stack Developer | AI Enthusiast</h3>
 
----
-
 ### ⚡ Fun Fact
 
 I once trained an AI to detect screams… now my laptop panics when I binge horror movies 👻🎧
@@ -71,6 +69,5 @@ I once trained an AI to detect screams… now my laptop panics when I binge horr
   </a>
 </p>
 
----
 
 ✨ Let’s build, learn, and create impact together!
