@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
 
-<h3 align="center">Final Year CSE-AIML Student | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">Final Year CSE-AIML Student | Interested in Data & Software Development</h3>
 
 ### ⚡ Fun Fact
 
